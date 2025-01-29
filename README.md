@@ -12,6 +12,12 @@ Medi-Unique Web Search with Lemmatization is an advanced content search applicat
 - **Similarity Calculation**: Calculates cosine similarity between query and document vectors.
 - **Result Ranking**: Ranks documents based on relevance to the search query.
 
+## Demo
+Watch the demo video to see how the Medi-Unique Web Search application works in action.
+
+[Demo Video](#) *https://www.youtube.com/watch?v=P-FsBJVhxuk*
+
+
 ## Installation
 1. Clone the repository:
     ```sh
